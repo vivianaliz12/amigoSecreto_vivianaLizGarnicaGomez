@@ -25,7 +25,7 @@ Para ejecutar este proyecto en tu entorno local:
 
 2. Abre el archivo index.html en tu navegador.
 
-📝 Uso
+## 📝 Uso
    1. Ingresa un nombre en el campo de texto.
    2. Presiona el botón "Añadir" para agregarlo a la lista.
    3. Una vez agregados todos los nombres, presiona el botón "Sortear amigo".
